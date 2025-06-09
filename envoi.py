@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 import time
 # --- CONFIG MQTT ---
-MQTT_BROKER = "broker.hivemq.com"   # Exemple broker public (change si besoin)
+MQTT_BROKER = "broker.hivemq.com"   
 MQTT_PORT = 1883
 MQTT_TOPIC = "foo/bxmeteo"
 
